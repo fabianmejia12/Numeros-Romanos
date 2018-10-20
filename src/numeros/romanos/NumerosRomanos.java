@@ -10,12 +10,11 @@ import java.util.Scanner;
 
 /**
  *
- * @author guada
+ * @author Fabián
  */
 public class NumerosRomanos {
 
     /**
-     * @param args the command line arguments
      */
    
 
